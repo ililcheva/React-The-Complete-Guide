@@ -1,0 +1,12 @@
+.UserOutput{
+    font-style: italic;
+    font-weight: bold;
+    color: green;
+    cursor: pointer;
+}
+
+.UserOutput > p:nth-child(2) {
+    color: black;
+    font-weight: 500;
+    font-size: x-small;
+}
